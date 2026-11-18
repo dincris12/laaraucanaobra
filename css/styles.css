@@ -77,3 +77,12 @@
 @media(max-width:560px){.team-grid{grid-template-columns:1fr}.group-reviews .published-review h3{font-size:25px}}
 .shared-comments-shell{margin-top:34px;background:var(--white);border:1px solid var(--border);padding:36px}.shared-comments-heading{display:flex;align-items:center;gap:14px}.shared-comments-heading h3{font:500 27px/1.25 var(--font-heading);margin:4px 0 0}.comment-eyebrow{font:800 10px var(--font-display);color:var(--red);letter-spacing:.16em}.comments-explainer{font-size:14px;color:#4a4c49;max-width:760px;margin:18px 0 20px}.comment-system-status{font-size:13px;color:#5c5a54;background:#f4ebdf;border-left:3px solid var(--gold);padding:13px 16px;margin:0 0 20px}.comment-system-status[data-state="error"]{border-left-color:var(--red);color:#7d3426}.disqus-embed{min-height:120px}.comments-privacy{font-size:12px;color:var(--muted);margin:22px 0 0;border-top:1px solid var(--border);padding-top:16px}
 @media(max-width:750px){.shared-comments-shell{padding:24px 18px}.shared-comments-heading h3{font-size:23px}}
+
+/* BRANDING: emblema ilustrado transparente */
+.brand-logo{display:block;width:118px;height:auto;max-height:76px;object-fit:contain;filter:drop-shadow(0 2px 7px rgba(0,0,0,.25))}
+.hero-logo-card{height:560px;position:relative;display:flex;align-items:center;justify-content:center;padding:26px 19px 48px;overflow:hidden;border:1px solid #927457;background:radial-gradient(ellipse at 50% 42%,#e8d6b9 0%,#bd9c7b 50%,#60473a 100%);box-shadow:24px 24px 0 -12px #262e30,25px 25px 0 -12px #916d4e}
+.hero-logo-card:before{content:"";position:absolute;inset:17px;border:1px solid rgba(42,29,25,.24);pointer-events:none}
+.hero-logo-card img{position:relative;z-index:1;display:block;width:100%;max-width:515px;max-height:95%;height:auto;object-fit:contain;filter:drop-shadow(0 12px 12px rgba(29,21,19,.28))}
+.hero-logo-credit{position:absolute;bottom:18px;left:20px;right:20px;text-align:center;color:#38251d;font:800 10px/1.4 var(--font-display);letter-spacing:.15em;z-index:2}
+@media(max-width:850px){.brand-logo{width:100px;max-height:63px}.hero-logo-card{height:425px}}
+@media(max-width:560px){.brand-logo{width:88px;max-height:56px}.hero-logo-card{height:320px;padding:16px 12px 39px}.hero-logo-card:before{inset:10px}.hero-logo-credit{font-size:8px;bottom:12px;letter-spacing:.1em}}
