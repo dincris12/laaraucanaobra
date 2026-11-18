@@ -11,7 +11,8 @@ Sitio web multipágina sobre **La Araucana** de Tryo Teatro Banda, presentada en
 ## Estructura
 
 - `index.html` — Portada.
-- `obra.html` — Sinopsis y lenguaje escénico.
+- `obra.html` — Contexto y lenguaje escénico.
+- `sinopsis.html` — Resumen argumental independiente sobre Ercilla, la Guerra de Arauco y la resistencia mapuche.
 - `ficha.html` — Ficha técnica y artística.
 - `elenco.html` — Integrantes del elenco de 2026 y personajes mencionados en las fuentes.
 - `galeria.html` — Dos fotografías compartidas para este proyecto, registros externos de 2026 y 2016 y enlaces a otras galerías.
