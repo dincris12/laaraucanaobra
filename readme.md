@@ -20,6 +20,7 @@ Sitio web multipágina sobre **La Araucana** de Tryo Teatro Banda, presentada en
 - `opiniones.html` — Seis opiniones personales íntegras del grupo y comentarios compartidos del público mediante Disqus.
 - `fuentes.html` — Fuentes, créditos y notas metodológicas.
 - `css/styles.css`, `js/*.js` — Diseño e interactividad.
+- `assets/logo-la-araucana.webp` — Emblema transparente y optimizado, utilizado en la portada y en las nueve cabeceras.
 
 ## Opiniones del equipo y de visitantes
 
