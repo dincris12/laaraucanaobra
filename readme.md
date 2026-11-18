@@ -15,7 +15,7 @@ Sitio web multipágina sobre **La Araucana** de Tryo Teatro Banda, presentada en
 - `sinopsis.html` — Resumen argumental independiente sobre Ercilla, la Guerra de Arauco y la resistencia mapuche.
 - `ficha.html` — Ficha técnica y artística ampliada con música, asesorías, instrumentación y datos de trayectoria del montaje.
 - `elenco.html` — Integrantes del elenco de 2026, biografías, roles atribuidos en la ficha académica y personajes representados.
-- `galeria.html` — Dos fotografías compartidas para este proyecto, registros externos de 2026 y 2016 y enlaces a otras galerías.
+- `galeria.html` — Tres fotografías compartidas para este proyecto, registros externos de 2026 y 2016 y enlaces a otras galerías.
 - `brecht.html` — Comparación de recursos teatrales con el teatro épico de Brecht.
 - `opiniones.html` — Seis opiniones personales íntegras del grupo y comentarios compartidos del público mediante Disqus.
 - `fuentes.html` — Fuentes, créditos y notas metodológicas.
@@ -31,7 +31,7 @@ Sitio web multipágina sobre **La Araucana** de Tryo Teatro Banda, presentada en
 
 ## Fotografías
 
-Las dos fotografías proporcionadas en esta conversación se guardan como `assets/funcion-foto-01.jpg` y `assets/funcion-foto-02.jpg`, se muestran en `galeria.html` y como adelanto en `index.html`, y funcionan sin conexión. Su autoría corresponde a **Lucas von der Forst**, integrante del grupo; no se asegura una hora o fecha exacta de captura. Además, se mantienen dos fotografías externas enlazadas desde DondeVoy/TMO (2026) y El Mostrador (2016), con atribución y enlaces de origen. **La autoría está acreditada. Confirmar autorización de publicación con el fotógrafo antes de compartir el sitio públicamente.**
+Las tres fotografías proporcionadas en esta conversación se guardan como `assets/funcion-foto-01.jpg`, `assets/funcion-foto-02.jpg` y `assets/funcion-foto-03.jpg`, se muestran en `galeria.html`, con dos de ellas destacadas en `index.html`, y funcionan sin conexión. Su autoría corresponde a **Lucas von der Forst**, integrante del grupo; no se asegura una hora o fecha exacta de captura. Además, se mantienen dos fotografías externas enlazadas desde DondeVoy/TMO (2026) y El Mostrador (2016), con atribución y enlaces de origen. **La autoría está acreditada. Confirmar autorización de publicación con el fotógrafo antes de compartir el sitio públicamente.**
 
 ## Fuentes y precisión
 
